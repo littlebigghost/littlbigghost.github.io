@@ -1,2 +1,2 @@
-# littlbigghost.github.io
+# littlebigghost.github.io
 个人博客
